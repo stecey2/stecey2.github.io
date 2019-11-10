@@ -88,10 +88,11 @@ text-align: justify;
 <div class="body">
   <div class="leftcolumn">
 	<div class="ikon"><a href="code.htm"><img src="ikonok/home 2.png" alt="Home ikon" width="100%" height="100%"></img></a></div>
-	<div class="ikon"><a href="galera1.htm"><img src="ikonok/foto.png" alt="Kamera ikon" width="100%" height="100%"></img></a>
+	<div class="ikon"><a href="galeria1"><img src="ikonok/foto.png" alt="Kamera ikon" width="100%" height="100%"></img></a>
 	</div>
-	<div class="ikon"><a href="galera3.htm"><img src="ikonok/gep.png" alt="Szamítógép ikon" width="100%" height="100%"></img></a></div>
-	<div class="ikon"><a href="galera4.htm"><img src="ikonok/rajz.png" alt="Rajz ikon" width="100%" height="100%"></img></a></div>
+	<div class="ikon"><a href="design"><img src="ikonok/gep.png" alt="Szamítógép ikon" width="100%" height="100%"></img></a></div>
+	<div class="ikon"><a href="rajz"><img src="ikonok/rajz.png" alt="Rajz ikon" width="100%" height="100%"></img></a></div>
+	
   </div>
   <div class="rightcolumn">
      <div class="doboz3">
