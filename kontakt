@@ -67,6 +67,7 @@
  height: 80%; 
  width: 95%;
  padding: 3%;
+text-align: justify;
 	}
 	
 .ikon{
