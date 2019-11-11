@@ -38,7 +38,7 @@
 
 .doboz3 {
 	float: left;
-	width: 90%;
+	width: 70%;
 	height: 53%;
 	margin: 3%;
 	padding: 1%;
@@ -102,7 +102,6 @@ text-align: justify;
 		    </div>
 		 </div>
         <div class="doboztext3">
-           <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 			<center><ul><b>Telefonszám:</b> +36703247024</ul>
 				<ul><b>Email:</b> szilagyi.laura99@edu.bme.hu</ul>
 			</center>
